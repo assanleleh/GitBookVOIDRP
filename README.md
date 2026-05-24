@@ -1,74 +1,15 @@
 ---
-description: NRP Unreal Engine — documentation VOID RP
-icon: gamepad-2
+description: NRP Unreal Engine.
 ---
 
-# Bienvenue sur VOID RP
+# Bienvenue sur VOIDRP ??
 
-Explorez l'univers **VOID RP** : règles du serveur, lore des Traités des Cendres, villages et carte du monde.
+&#x20;
 
-{% tabs %}
-{% tab title="Règlement" %}
+<h2 align="center">Les points importants</h2>
 
-Le règlement définit le cadre de jeu, les sanctions et les attentes en roleplay sur le serveur.
+A savoir avant de rejoindre l'aventure.
 
-{% hint style="info" %}
-Lisez le règlement avant de créer votre personnage et de vous connecter au serveur.
-{% endhint %}
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-discord">:discord:</i></h4></td><td><strong>Discord community</strong></td><td>Join our Discord community to post questions, get help, and share resources with over 3,000 like-minded developers.</td><td><a href="https://www.gitbook.com/" class="button secondary">Join Discord</a></td><td></td><td><a href="https://www.gitbook.com/">https://www.gitbook.com/</a></td></tr><tr><td><h4><i class="fa-github">:github:</i></h4></td><td><strong>GitHub</strong></td><td>Our product is 100% open source and built by developers just like you. Head to our GitHub repository to learn how to submit your first PR.</td><td><a href="https://github.com/GitbookIO/gitbook-templates" class="button secondary">Submit a PR</a></td><td></td><td><a href="https://www.gitbook.com/">https://www.gitbook.com/</a></td></tr></tbody></table>
 
-**À retrouver dans cette section :**
-
-* Règles générales et fair-play
-* Sanctions et modération
-* Bonnes pratiques NRP
-
-[→ Voir le règlement complet](reglement/README.md)
-
-{% endtab %}
-
-{% tab title="Traités des Cendres" %}
-
-Les **Traités des Cendres** racontent l'histoire, les factions et les événements majeurs qui façonnent le monde de VOID RP.
-
-**Contenu à venir :**
-
-* Chronologie et lore principal
-* Factions et alliances
-* Événements serveur
-
-[→ Explorer les Traités des Cendres](traites-des-cendres/README.md)
-
-{% endtab %}
-
-{% tab title="Villages" %}
-
-Découvrez les villages, leurs habitants, leurs coutumes et les points d'intérêt roleplay.
-
-**Contenu à venir :**
-
-* Fiches villages
-* PNJ et quêtes locales
-* Règles spécifiques par zone
-
-[→ Voir les villages](villages/README.md)
-
-{% endtab %}
-
-{% tab title="Carte du monde" %}
-
-La carte du monde vous aide à vous repérer et à planifier vos déplacements en roleplay.
-
-{% hint style="warning" %}
-La carte interactive sera ajoutée ici dès qu'elle sera disponible.
-{% endhint %}
-
-**Contenu à venir :**
-
-* Carte complète du monde
-* Légendes et zones
-* Points de passage importants
-
-[→ Ouvrir la carte du monde](carte-du-monde/README.md)
-
-{% endtab %}
-{% endtabs %}
+&#x20;
