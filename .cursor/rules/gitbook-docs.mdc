@@ -10,7 +10,7 @@ Ce dépôt est synchronisé avec GitBook via Git Sync.
 
 ## Référence syntaxe
 
-Consultez `skill.md` à la racine pour la syntaxe GitBook (blocs custom, frontmatter, variables, hints, tabs, etc.).
+Consultez `.cursor/skill.md` pour la syntaxe GitBook (blocs custom, frontmatter, variables, hints, tabs, etc.).
 
 ## Structure
 
