@@ -2,14 +2,14 @@
 description: NRP Unreal Engine.
 ---
 
-# Bienvenue sur VOIDRP ??
+# Bienvenue sur VOIDRP
 
 &#x20;
 
-<h2 align="center">Les points importants</h2>
+<h2 align="center">Explorer VOID RP</h2>
 
-A savoir avant de rejoindre l'aventure.
+Choisissez une section pour commencer.
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-discord">:discord:</i></h4></td><td><strong>Discord community</strong></td><td>Join our Discord community to post questions, get help, and share resources with over 3,000 like-minded developers.</td><td><a href="https://www.gitbook.com/" class="button secondary">Join Discord</a></td><td></td><td><a href="https://www.gitbook.com/">https://www.gitbook.com/</a></td></tr><tr><td><h4><i class="fa-github">:github:</i></h4></td><td><strong>GitHub</strong></td><td>Our product is 100% open source and built by developers just like you. Head to our GitHub repository to learn how to submit your first PR.</td><td><a href="https://github.com/GitbookIO/gitbook-templates" class="button secondary">Submit a PR</a></td><td></td><td><a href="https://www.gitbook.com/">https://www.gitbook.com/</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-gavel">:gavel:</i></h4></td><td><strong>Règlement</strong></td><td>Règles du serveur, sanctions et attentes en roleplay avant de rejoindre l'aventure.</td><td><a href="reglement/README.md" class="button secondary">Lire le règlement</a></td><td></td><td><a href="reglement/README.md">reglement/README.md</a></td></tr><tr><td><h4><i class="fa-scroll">:scroll:</i></h4></td><td><strong>Traités des Cendres</strong></td><td>Lore, factions et histoire des Traités qui structurent l'univers de VOID RP.</td><td><a href="traites-des-cendres/README.md" class="button secondary">Explorer le lore</a></td><td></td><td><a href="traites-des-cendres/README.md">traites-des-cendres/README.md</a></td></tr><tr><td><h4><i class="fa-house">:house:</i></h4></td><td><strong>Villages</strong></td><td>Découvrez les villages, leurs habitants et les zones de jeu roleplay.</td><td><a href="villages/README.md" class="button secondary">Voir les villages</a></td><td></td><td><a href="villages/README.md">villages/README.md</a></td></tr><tr><td><h4><i class="fa-map">:map:</i></h4></td><td><strong>Carte du monde</strong></td><td>Carte, légendes et repères pour vous orienter dans le monde VOID RP.</td><td><a href="carte-du-monde/README.md" class="button secondary">Ouvrir la carte</a></td><td></td><td><a href="carte-du-monde/README.md">carte-du-monde/README.md</a></td></tr></tbody></table>
 
 &#x20;
