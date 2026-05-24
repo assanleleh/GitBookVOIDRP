@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "gitbook": {
+      "command": "powershell",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "scripts/start-gitbook-mcp.ps1"
+      ]
+    }
+  }
+}

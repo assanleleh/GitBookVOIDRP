@@ -1,0 +1,10 @@
+# Secrets
+.env
+
+# GitBook MCP (installé par scripts/setup.ps1 — non versionné)
+tools/gitbook-mcp/
+
+# OS / éditeur
+.DS_Store
+Thumbs.db
+*.swp

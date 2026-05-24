@@ -1,0 +1,32 @@
+---
+description: Règles pour éditer la documentation GitBook VOID RP
+globs: "**/*.md"
+alwaysApply: false
+---
+
+# Documentation GitBook VOID RP
+
+Ce dépôt est synchronisé avec GitBook via Git Sync.
+
+## Référence syntaxe
+
+Consultez `skill.md` à la racine pour la syntaxe GitBook (blocs custom, frontmatter, variables, hints, tabs, etc.).
+
+## Structure
+
+- `README.md` — page d'accueil
+- `SUMMARY.md` — table des matières (doit refléter la navigation GitBook)
+- `.gitbook.yaml` — configuration Git Sync
+- Dossiers par section (`introduction/`, `reglement/`, `guide-joueur/`, …)
+
+## Bonnes pratiques
+
+- Écrire en **français**
+- Ajouter un frontmatter `description` sur chaque page
+- Mettre à jour `SUMMARY.md` quand une page est ajoutée ou déplacée
+- Vérifier les liens internes avant de committer
+- Ne pas committer `.env` (token API)
+
+## Publication
+
+Les changements sont publiés après `git push` vers GitHub, si Git Sync est activé sur l'espace GitBook.
